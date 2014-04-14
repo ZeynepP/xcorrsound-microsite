@@ -23,7 +23,7 @@ xcorrSound brings the following benefits:
 * easy to install and integrate into a workflow (command line tool)
 * leads to an improved and optimised end user experience
 
-Scout Can Be Used By
+xcorrSound Can Be Used By
 --------------------
 
 * Institutions disseminating audio content
