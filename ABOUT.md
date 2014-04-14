@@ -24,7 +24,7 @@ xcorrSound brings the following benefits:
 * leads to an improved and optimised end user experience
 
 xcorrSound Can Be Used By
---------------------
+-------------------------
 
 * Institutions disseminating audio content
 * Institutions preserving audio collections
